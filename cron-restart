@@ -1,0 +1,2 @@
+# Sample 
+#0 6 * * * root killall -9 python
